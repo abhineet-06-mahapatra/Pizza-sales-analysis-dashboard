@@ -72,8 +72,4 @@ The Pizza Sales Dashboard is an interactive Power BI project designed to analyze
 * Regional Performance Analysis
 * AI-Driven Sales Predictions
 
-## 👨‍💻 Author
 
-**Abhineet Mahapatra**
-
-Aspiring Data Analyst | Power BI Developer | Business Intelligence Enthusiast
